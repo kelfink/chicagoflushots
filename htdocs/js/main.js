@@ -7,7 +7,7 @@
 		// App tag line
 		apptagline: 'Get a Resource',
 		// City
-		city:'Chicago',
+		city:'Sacramento',
 		// DOM ID of where the Google Map is to be rendered
 		domid:'map',
 		// Location of the ical.php file.
@@ -29,15 +29,15 @@
 		// Icon for selected location
 		iconselected:'/img/yellow.png',
 		// Start center latutude of the Google map
-		lat:41.875,
+		lat:38.3770781
 		// Start center longitude of the Google map
-		lng:-87.6425,
+		lng:-121.7225993
 		// Selected event icon
 		selectedeventicon:null,
 		// Selected event id
 		selectedeventid:null,
 		// State
-		state:'Illinois',
+		state:'California',
 		// Defined style types passed to TkMap
 		styles:'grey minlabels',
 		// The production URL (for display purposes)
