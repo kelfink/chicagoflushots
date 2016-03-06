@@ -81,6 +81,6 @@ This code should be fairly easy to take and use by other government agencies
 offering flu shot clinic events. If you would like any advice on 
 implementing this code, drop me a line.
 
-Tom Kompare
-e: [tom@kompare.us](mailto:tom@kompare.us)
+Kevin Fries
+e: [kelfink@yahoo.com](mailto:kelfink@yahoo.com)
 t: [@tomkompare](//twitter.com/tomkompare)

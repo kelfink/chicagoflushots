@@ -5,7 +5,7 @@
 	 */
 	var Default = {
 		// App tag line
-		apptagline: 'Get a flu shot',
+		apptagline: 'Get a Resource',
 		// City
 		city:'Chicago',
 		// DOM ID of where the Google Map is to be rendered
@@ -17,7 +17,7 @@
 		// Google Fusion Tables URI
 		fturl:'https://www.googleapis.com/fusiontables/v1/query',
 		// Google maps API key
-		googlemapsapikey:'AIzaSyDRVus9kkg8mr6M7EZUmXZsdoM7JSFbvC8',
+		googlemapsapikey:'AIzaSyDQ1gdAfnA5Jn-zQ73kgqewL5FhLG-EBxw',
 		// Icon for other for-fee events
 		iconfee:'/img/red.png',
 		// Icon for Free events
