@@ -1,45 +1,24 @@
-##Chicago Flu Shots
+##Sacramento Homeless resource mapper
 
-**aka "Flu Shot Finder"**
+**aka "Homeless resource Finder"**
 
-###NOTICE: THE FLU SHOTS APP WAS REWRITTEN FOR THE 2015-16 SEASON.
+###NOTICE: This is an adaptation of Tom Kompare's Chicago Flu Shot Finder
 
-This application was developed for the Chicago Department of Public Health (CDPH)
+This application was developed for Sacramento County 
 to help Chicago residents identify a convenient no cost CDPH flu shot event.
 
 [http://chicagoflushots.org/](http://chicagoflushots.org/)
 
 ###BACKGROUND
-In mid-2012, I went to a weekly meeting of civic coders where several city agencies 
-presented. They asked for our help in building interesting applications around
-their available data. I was interested in the free flu shot clinic locations
-since flu season was coming up fast, and I had attended a free flu shot event
-in the past.
-
-I built a prototype application and advertised it via Twitter. the Chicago 
-Department of Public Health (CDPH), the Mayor's Office, and a few other 
-civic coders, mainly Juan-Pablo Velez, noticed the tweet. Before I knew 
-it, Juan-Pablo brokered a meeting between CDPH, the Mayor's Office, and 
-ourselves. The meeting was positive and I began in ernest to polish up 
-the application.
 
 ###BITS AND BYTES
-Chicago Flu Shots events data are maintained and published to a Google Fusion
-Table by CDPH. This code uses the Google Maps API to retrieve those events. We use
-Google Fusion Tables because it is easy to update on demand and there is no
-administrative overhead and delay as there is with the City of Chicago Data Portal.
-Using a Google Fusion Table also make this code more usable by other who do not
-use the same data platform as the City of Chicago.
+Evens listed here are maintained and published to a Google Fusion
+Table by ???. This code uses the Google Maps API to retrieve those events. We use
+Google Fusion Tables.
 
 ####The Fusion Table:
-[https://www.google.com/fusiontables/DataSource?docid=1leqPq9hrsGhnE8NoT00YZn1ITTzhK6BhrF8LNL4](https://www.google.com/fusiontables/DataSource?docid=1leqPq9hrsGhnE8NoT00YZn1ITTzhK6BhrF8LNL4)
+???
 
-###MADD PROPZ
-This web application could not have been originally as well executed without 
-the sage feedback and assistance of Juan-Pablo Velez and Derek Eder. Thanks 
-also to Smart Chicago for hosting this web application. **Raed Mansour** (of CDPH)
-has been my advocate and full partner on the inside. Without his advocacy, this
-fairly unique relationship and this application would not work.
 
 ###CODE NOTES
 This a HTML/CSS/JavaScript web application. It does have one small PHP (ical.php)
@@ -71,16 +50,8 @@ Summer or early Autumn** every year. Smaller bug fix branches may be created
 at anytime and merged back into 'master' when the bug is squashed.
 
 ###ERRATA
-'CDPH_HC_Logo.jpg', 'healthychicago_small_trans.png', and 
-'healthychicago_small_trans_bw.png' image files are for the City of 
-Chicago's own use and **do not fall under the license found on LICENSE.TXT.** 
-You must replace it in your own implementation. It is left here to help you 
-use this code.
-
-This code should be fairly easy to take and use by other government agencies
-offering flu shot clinic events. If you would like any advice on 
-implementing this code, drop me a line.
+-- TODO -- rebadging and branding for the County of Sacramento
 
 Kevin Fries
 e: [kelfink@yahoo.com](mailto:kelfink@yahoo.com)
-t: [@tomkompare](//twitter.com/tomkompare)
+t: [@xelfink](//twitter.com/xelfink)
