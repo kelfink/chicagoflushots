@@ -29,9 +29,9 @@
 		// Icon for selected location
 		iconselected:'/img/yellow.png',
 		// Start center latutude of the Google map
-		lat:38.3770781
+		lat:38.3770781,
 		// Start center longitude of the Google map
-		lng:-121.7225993
+		lng:-121.7225993,
 		// Selected event icon
 		selectedeventicon:null,
 		// Selected event id
